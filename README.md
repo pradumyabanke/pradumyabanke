@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm pradumya banke</h1>
 <h3 align="center">I'm a dedicated software engineer who thrives on challenges and loves to learn new technologies. My expertise lies in leveraging Node.js to build robust and efficient server-side applications. With a background in [mention any relevant education or work experience], I bring a unique blend of skills to the table that enables me to craft elegant and effective solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0lAm7KdMJAQvvSynSW1gDF&ust=1695377573832000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCXo-K7u4EDFQAAAAAdAAAAABAE">
-
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0lAm7KdMJAQvvSynSW1gDF&ust=1695377573832000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCXo-K7u4EDFQAAAAAdAAAAABAE](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradumyabanke&label=Profile%20views&color=0e75b6&style=flat" alt="pradumyabanke" /> </p>
 
 - 🔭 I’m currently working on [Newstrack](https://github.com/pradumyabanke/News_track.git)
